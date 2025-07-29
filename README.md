@@ -19,6 +19,13 @@ un archivo JSON estructurado conforme a la **Resolución 2275 de 2023** del Mini
 - Permitir ejecución de macros (VBA).
 - Archivos válidos XML y JSON conforme a los estándares de facturación electrónica y resolución 2275:2023.
 
+## 📝 Licencia
+
+Este proyecto, incluyendo las macros y funciones personalizadas, está licenciado bajo los términos de la **Licencia MIT**.  
+Puedes usarlo, modificarlo y distribuirlo libremente con la debida atribución.
+
+Ver archivo [LICENSE](./LICENSE) para más detalles.
+
 ## 📚 Librerías utilizadas
 
 Este proyecto utiliza la librería de código abierto [VBA-JSON](https://github.com/VBA-tools/VBA-JSON) para la manipulación de archivos JSON en VBA.
